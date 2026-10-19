@@ -1,0 +1,8 @@
+{
+  "name": "Java Artık Yıl Hesaplayıcı - Enes Öztürk",
+  "description": "Java ile kullanıcının girdiği yılın artık yıl olup olmadığını hesaplayan interaktif simülatör, kaynak kodları ve takvim görselleştiricisi. Enes Öztürk imzasıyla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
